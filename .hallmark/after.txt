@@ -1,0 +1,8 @@
+src/index.html
+  DISMISSED 42 :5 default nav shape: 5 links + CTA + 1px hairline
+  NOTE 58 :1 709 visible words on the page (450 at most) | fix: Cut copy: one idea per screen, sections become objects
+src/style.css
+  DISMISSED F4 :13 4 filled primary-button recipes: .button + .button.gold + #app-nav button.active + .…
+sloplint: 0 FAIL, 0 WARN, 2 DISMISSED, 1 NOTE across 4 file(s) and 1 URL(s).
+render tier not run: no puppeteer-core found locally, globally or via HALLMARK_PUPPETEER
+kept: links 8/8, fields 9/9; before 163 FAIL, 150 REFLEX, now 0 FAIL, 0 REFLEX

@@ -1,0 +1,7 @@
+.git
+.env*
+node_modules
+.sites-runtime
+.wrangler
+outputs
+preview.db*

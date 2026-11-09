@@ -1,0 +1,23 @@
+{
+  "id": {
+    "before": 23,
+    "preserved": 23,
+    "missing": []
+  },
+  "name": {
+    "before": 11,
+    "preserved": 11,
+    "missing": []
+  },
+  "data-service": {
+    "before": 4,
+    "preserved": 4,
+    "missing": []
+  },
+  "link_destinations": {
+    "before": 8,
+    "preserved": 8,
+    "missing": []
+  },
+  "contract_text_unchanged": true
+}

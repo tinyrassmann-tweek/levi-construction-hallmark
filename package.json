@@ -1,0 +1,1 @@
+{"name":"levi-construction","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/assemble.mjs","test":"node --test tests/*.test.mjs","dev":"node scripts/preview.mjs","start":"node google-cloud/server.mjs"},"dependencies":{"@google-cloud/firestore":"^8.0.0"}}

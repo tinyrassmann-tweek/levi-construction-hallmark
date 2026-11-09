@@ -1,0 +1,11 @@
+node_modules/
+.env*
+.dev.vars*
+.sites-runtime/
+.wrangler/
+outputs/
+preview.db*
+
+.hallmark/compare.html
+.hallmark/before/
+.hallmark/render/
